@@ -80,7 +80,7 @@ src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff55
 <img src="https://img.shields.io/badge/Instagram-FF5500?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://linkedin.com/in/vivek-kumar-patar-064953369">
 <img src="https://img.shields.io/badge/LinkedIn-ff6600?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -88,7 +88,7 @@ src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff55
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/91XXXXXXXXXX">
+<a href="https://wa.me/917970586436">
 <img src="https://img.shields.io/badge/WhatsApp-ff3300?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
