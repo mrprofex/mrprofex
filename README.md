@@ -29,7 +29,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=300&text=MRPROFEX&
 
 <img
 width="100%"
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FF6B00&center=true&vCenter=true&width=1000&lines=Name:+Vivek+Kumar+Patar;Username:+mrprofex;Role:+Computer+Science+Student;Learning:+HTML+CSS+JavaScript+Python;Goal:+Become+Full+Stack+Developer;Passion:+Build+Learn+Improve"
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FF6B00&center=true&vCenter=true&width=1000&lines=Name:+Vivek+Kumar+Patar;Username:+mrprofex;Role:+Computer+Science+Student;Learning:+HTML+CSS+Java+Python;Goal:+Become+Full+Stack+Developer;Passion:+Build+Learn+Improve"
 />
 
 </div>
@@ -50,7 +50,9 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=250
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github,vscode,figma"/>
+<img
+src="https://skillicons.dev/icons?i=vscode,python,java,html,css"
+/>
 
 </div>
 
