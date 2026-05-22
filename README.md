@@ -30,10 +30,9 @@ src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff55
 <div align="center">
 
 <table width="100%">
-
 <tr>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
 ## 💻 VS CODE STATUS
 
@@ -44,7 +43,7 @@ src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff55
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
 ## 🎯 MISSION STATUS
 
@@ -55,7 +54,7 @@ src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff55
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
 ## 📡 LIVE SYSTEM
 
@@ -67,7 +66,6 @@ src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff55
 </td>
 
 </tr>
-
 </table>
 
 </div>
@@ -144,19 +142,19 @@ src="https://skillicons.dev/icons?i=vscode,python,java,html,css"
 
 <img
 height="180"
-src="https://github-readme-stats.vercel.app/api?username=mrprofex&show_icons=true&theme=tokyonight&hide_border=true"
+src="https://github-readme-stats.vercel.app/api?username=mrprofex&show_icons=true&theme=tokyonight&hide_border=true&title_color=70A5FD&icon_color=70A5FD"
 />
 
 <img
 height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprofex&layout=compact&theme=tokyonight&hide_border=true"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprofex&layout=compact&theme=tokyonight&hide_border=true&title_color=70A5FD"
 />
 
 <br><br>
 
 <img
 width="100%"
-src="https://github-profile-trophy.vercel.app/?username=mrprofex&theme=matrix&no-frame=true&row=1&column=7"
+src="https://github-profile-trophy.vercel.app/?username=mrprofex&theme=algolia&no-frame=true&row=1&column=7"
 />
 
 </div>
