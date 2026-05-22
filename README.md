@@ -231,6 +231,11 @@ Interactive calculator
 ### ⭐ Explore • Learn • Create • Repeat ⭐
 
 <br><br>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mrprofex&theme=matrix&no-frame=true&row=1&column=7" />
+
+</div>
 
 <img
 width="100%"
