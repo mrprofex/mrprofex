@@ -115,11 +115,29 @@ src="https://skillicons.dev/icons?i=vscode,python,java,html,css"
 
 <div align="center">
 
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=mrprofex&show_icons=true&theme=tokyonight"/>
+<table width="100%">
+<tr>
 
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprofex&layout=compact&theme=tokyonight"/>
+<td width="50%" align="center">
+
+<img
+width="100%"
+src="https://github-readme-stats.vercel.app/api?username=mrprofex&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+width="100%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprofex&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
