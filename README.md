@@ -46,10 +46,9 @@ src="https://capsule-render.vercel.app/api?type=rect&height=95&text=🔥%20ABOUT
 
 ## 👤 PROFILE
 
-🔥 **Vivek Kumar Patar**
-
-💻 Computer Science  
-Engineering Student
+🔥 **Vivek Kumar Patar**  
+💻 Computer Science Engineering Student  
+🚀 Passionate Developer  
 
 </td>
 
@@ -59,7 +58,8 @@ Engineering Student
 
 🌐 HTML & CSS  
 ☕ Java  
-🐍 Python
+🐍 Python  
+⚡ Web Development  
 
 </td>
 
@@ -67,15 +67,26 @@ Engineering Student
 
 ## 🎯 GOAL
 
-⚡ Build Projects  
-🔥 Improve Daily  
-🚀 Become Full Stack Developer
+🔥 Build Real Projects  
+⚡ Improve Daily  
+🚀 Become Full Stack Developer  
 
 </td>
 
 </tr>
 
 </table>
+
+<br><br>
+
+<!-- YOUR ANIMATION ADDED HERE -->
+<div align="center">
+
+<img width="300"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+/>
+
+</div>
 
 <br>
 
@@ -185,13 +196,13 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 # 🚀 Featured Projects
 
 ### 🌐 Portfolio Website  
-Responsive personal website
+Responsive personal website  
 
 ### 📝 To-Do App  
-Task management application
+Task management application  
 
 ### 🧮 Calculator  
-Interactive calculator
+Interactive calculator  
 
 ---
 
