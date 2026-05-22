@@ -30,40 +30,69 @@ src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff55
 <div align="center">
 
 <table width="100%">
+
 <tr>
 
 <td align="center" width="33%">
 
 ## 💻 VS CODE STATUS
+
 🟢 Active Coding Mode  
 🔥 Building Projects  
 ⚡ Debugging Skills  
-🚀 Learning Every Day  
+🚀 Learning Every Day
 
 </td>
 
 <td align="center" width="33%">
 
 ## 🎯 MISSION STATUS
+
 🚀 Full Stack Goal  
 🔥 Daily Practice  
 ⚡ Project Building  
-💡 Growth Mode  
+💡 Growth Mode
 
 </td>
 
 <td align="center" width="33%">
 
 ## 📡 LIVE SYSTEM
+
 🟢 Online  
 ⚙️ Processing Skills  
 📈 Improving Daily  
-💾 Saving Knowledge  
+💾 Saving Knowledge
 
 </td>
 
 </tr>
+
 </table>
+
+</div>
+
+---
+
+# 📱 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://instagram.com/yourusername">
+<img src="https://img.shields.io/badge/Instagram-FF5500?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/yourusername">
+<img src="https://img.shields.io/badge/LinkedIn-ff6600?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mrprofex">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/91XXXXXXXXXX">
+<img src="https://img.shields.io/badge/WhatsApp-ff3300?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
 </div>
 
@@ -76,7 +105,7 @@ width="100%"
 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1500&pause=600&color=00FF41&center=true&vCenter=true&width=1000&lines=Initializing...;Developer+Mode+Activated;Loading+Skills...;Building+Future...;Welcome+to+MRPROFEX"
 />
 
-<br>
+<br><br>
 
 <img
 width="100%"
@@ -93,7 +122,7 @@ src="https://capsule-render.vercel.app/api?type=rect&height=160&text=SYSTEM%20ON
 ⚡ Building responsive websites  
 🎯 Improving problem solving  
 🚀 Exploring AI and future technologies  
-🔥 Building projects consistently  
+🔥 Building projects consistently
 
 ---
 
@@ -114,22 +143,20 @@ src="https://skillicons.dev/icons?i=vscode,python,java,html,css"
 <div align="center">
 
 <img
-width="49%"
+height="180"
 src="https://github-readme-stats.vercel.app/api?username=mrprofex&show_icons=true&theme=tokyonight&hide_border=true"
 />
 
 <img
-width="49%"
+height="180"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprofex&layout=compact&theme=tokyonight&hide_border=true"
 />
 
 <br><br>
 
-<!-- CYBER TROPHY -->
-
 <img
 width="100%"
-src="https://github-profile-trophy.vercel.app/?username=mrprofex&theme=onestar&no-frame=true&row=1&column=7"
+src="https://github-profile-trophy.vercel.app/?username=mrprofex&theme=matrix&no-frame=true&row=1&column=7"
 />
 
 </div>
@@ -167,7 +194,7 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 🏅 Frontend Development  
 🏅 Open Source Journey  
 🏅 Building Every Week  
-🏅 Exploring New Technologies  
+🏅 Exploring New Technologies
 
 ---
 
@@ -184,36 +211,12 @@ Interactive calculator
 
 ---
 
-# 📱 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://instagram.com/yourusername">
-<img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/yourusername">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mrprofex">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/91XXXXXXXXXX">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 # ☕ FUN FACTS
 
 💻 I enjoy coding and experimenting  
 🌙 I love building late at night  
 🎯 Always improving one step at a time  
-🔥 Turning ideas into projects  
+🔥 Turning ideas into projects
 
 ---
 
