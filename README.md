@@ -23,7 +23,6 @@ src="https://capsule-render.vercel.app/api?type=waving&height=300&text=MRPROFEX&
 
 ---
 
-
 <div align="center">
 
 <img
@@ -41,17 +40,17 @@ src="https://capsule-render.vercel.app/api?type=rect&height=180&text=SYSTEM%20ON
 </div>
 
 ---
+
 # 🔥 About Me
 
 <div align="center">
 
 <img
 width="100%"
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=1800&pause=800&color=FF6A00&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=%3E+whoami;Vivek+Kumar+Patar;%3E+username;mrprofex;%3E+role;Computer+Science+Student;%3E+learning;HTML+•+CSS+•+Java+•+Python;%3E+goal;Become+Full+Stack+Developer"
+src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&multiline=true&width=1000&height=220&lines=Vivek+Kumar+Patar;mrprofex;Computer+Science+Engineering+Student;Learning+HTML+CSS+Java+Python;Building+Projects;Always+Improving"
 />
 
 </div>
-
 
 ---
 
