@@ -76,7 +76,7 @@ src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff55
 
 <div align="center">
 
-<a href="[https://instagram.com/yourusername](https://www.instagram.com/vivek.kr.patar?igsh=N3piODB1MGJybzQx)">
+<a href="https://instagram.com/vivek.kr.patar">
 <img src="https://img.shields.io/badge/Instagram-FF5500?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
