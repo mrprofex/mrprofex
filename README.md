@@ -5,7 +5,6 @@
 </p>
 
 ---
-<align="ceter">
 ## 🚀 About Me
 
 💻 Computer Science Engineering Student  
