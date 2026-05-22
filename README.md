@@ -141,18 +141,6 @@ src="https://skillicons.dev/icons?i=vscode,python,java,html,css"
 <div align="center">
 
 <img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=mrprofex&show_icons=true&theme=tokyonight&hide_border=true&title_color=70A5FD&icon_color=70A5FD"
-/>
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprofex&layout=compact&theme=tokyonight&hide_border=true&title_color=70A5FD"
-/>
-
-<br><br>
-
-<img
 width="100%"
 src="https://github-profile-trophy.vercel.app/?username=mrprofex&theme=algolia&no-frame=true&row=1&column=7"
 />
