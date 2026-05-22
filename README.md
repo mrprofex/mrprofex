@@ -173,19 +173,6 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=mrprofex&theme=tokyo
 
 ---
 
-# 🐍 SNAKE ANIMATION
-
-<div align="center">
-
-<img
-width="100%"
-src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-/>
-
-</div>
-
----
-
 # 🏆 ACHIEVEMENTS
 
 🏅 Consistent Learner  
@@ -215,6 +202,19 @@ Interactive calculator
 🌙 I love building late at night  
 🎯 Always improving one step at a time  
 🔥 Turning ideas into projects
+
+---
+
+# 🐍 SNAKE ANIMATION
+
+<div align="center">
+
+<img
+width="100%"
+src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+/>
+
+</div>
 
 ---
 
