@@ -1,12 +1,10 @@
 <!-- PREMIUM FULL WIDTH FIRE HEADER -->
 
 <p align="center">
-
 <img
 width="100%"
 src="https://capsule-render.vercel.app/api?type=waving&height=300&text=MRPROFEX&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&color=0:ff3c00,50:ff6a00,100:ff0000"
 />
-
 </p>
 
 <div align="center">
@@ -27,49 +25,43 @@ src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff55
 
 ---
 
-<!-- PREMIUM ABOUT CARD -->
+<!-- ===================== DASHBOARD SECTION ===================== -->
+
+# 🖥️ DEVELOPER DASHBOARD
 
 <div align="center">
-
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=rect&height=95&text=🔥%20ABOUT%20ME&fontSize=34&fontColor=ffffff&animation=fadeIn&color=0:ff3c00,100:ff8800"
-/>
-
-<br><br>
 
 <table width="100%">
 
 <tr>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-## 👤 PROFILE
-
-🔥 **Vivek Kumar Patar**  
-💻 Computer Science Engineering Student  
-🚀 Passionate Developer  
-
-</td>
-
-<td width="33%" align="center">
-
-## 🚀 CURRENT FOCUS
-
-🌐 HTML & CSS  
-☕ Java  
-🐍 Python  
-⚡ Web Development  
+## 💻 VS CODE STATUS  
+🟢 Active Coding Mode  
+🔥 Building Projects  
+⚡ Debugging Skills  
+🚀 Learning Every Day  
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-## 🎯 GOAL
+## 🎯 MISSION STATUS  
+🚀 Full Stack Goal  
+🔥 Daily Practice  
+⚡ Project Building  
+💡 Growth Mode  
 
-🔥 Build Real Projects  
-⚡ Improve Daily  
-🚀 Become Full Stack Developer  
+</td>
+
+<td align="center" width="33%">
+
+## 📡 LIVE SYSTEM  
+🟢 Online  
+⚙️ Processing Skills  
+📈 Improving Daily  
+💾 Saving Knowledge  
 
 </td>
 
@@ -77,28 +69,37 @@ src="https://capsule-render.vercel.app/api?type=rect&height=95&text=🔥%20ABOUT
 
 </table>
 
-<br><br>
+</div>
 
-<!-- YOUR ANIMATION ADDED HERE -->
+---
+
+# 🔥 ABOUT ME (CYBER CARD)
+
 <div align="center">
 
-<img width="300"
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=rect&height=95&text=ABOUT%20ME&fontSize=34&fontColor=ffffff&animation=fadeIn&color=0:ff3c00,100:ff8800"
+/>
+
+<br><br>
+
+<img
+width="300"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 />
 
-</div>
-
-<br>
+<br><br>
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=2500&pause=1500&color=FF6A00&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Reality+🔥;Learning+Every+Day+⚡;Creating+The+Future+🚀"
+src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=1500&color=FF6A00&center=true&vCenter=true&width=750&lines=Vivek+Kumar+Patar;mrprofex;Computer+Science+Engineering+Student;Frontend+Developer;Problem+Solver;Future+Full+Stack+Developer"
 />
 
 </div>
 
 ---
 
-# 💻 Cyber Animation
+# 💻 CYBER ANIMATION
 
 <div align="center">
 
@@ -118,7 +119,7 @@ src="https://capsule-render.vercel.app/api?type=rect&height=160&text=SYSTEM%20ON
 
 ---
 
-# 🌍 Current Journey
+# 🌍 CURRENT JOURNEY
 
 🧠 Learning modern web development  
 ⚡ Building responsive websites  
@@ -128,7 +129,7 @@ src="https://capsule-render.vercel.app/api?type=rect&height=160&text=SYSTEM%20ON
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 TECH STACK
 
 <div align="center">
 
@@ -140,25 +141,21 @@ src="https://skillicons.dev/icons?i=vscode,python,java,html,css"
 
 ---
 
-# ⚡ Developer Activity
+# ⚡ DEVELOPER ACTIVITY
 
 <div align="center">
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=mrprofex&show_icons=true&theme=tokyonight"
-/>
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=mrprofex&show_icons=true&theme=tokyonight"/>
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprofex&layout=compact&theme=tokyonight"
-/>
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprofex&layout=compact&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 CONTRIBUTION STREAK
 
 <div align="center">
 
@@ -170,7 +167,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=mrprofex&theme=tokyo
 
 ---
 
-# 🐍 Snake Animation
+# 🐍 SNAKE ANIMATION
 
 <div align="center">
 
@@ -183,7 +180,7 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 
 ---
 
-# 🏆 Achievements
+# 🏆 ACHIEVEMENTS
 
 🏅 Consistent Learner  
 🏅 Frontend Development  
@@ -193,7 +190,7 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
 
 ### 🌐 Portfolio Website  
 Responsive personal website  
@@ -206,7 +203,7 @@ Interactive calculator
 
 ---
 
-# ☕ Fun Facts
+# ☕ FUN FACTS
 
 💻 I enjoy coding and experimenting  
 🌙 I love building late at night  
@@ -217,7 +214,7 @@ Interactive calculator
 
 <div align="center">
 
-## 🔥 Thanks For Visiting
+## 🔥 THANKS FOR VISITING
 
 ### ⭐ Explore • Learn • Create • Repeat ⭐
 
