@@ -27,10 +27,27 @@ src="https://capsule-render.vercel.app/api?type=waving&height=300&text=MRPROFEX&
 
 <div align="center">
 
-<img
-width="100%"
-src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&multiline=true&width=1000&height=220&lines=Vivek+Kumar+Patar;mrprofex;Computer+Science+Engineering+Student;Learning+HTML+CSS+Java+Python;Building+Projects;Always+Improving"
-/>
+<h1 style="color:#FF6A00;">
+Vivek Kumar Patar
+</h1>
+
+<h3 style="color:#FF6A00;">
+💻 Computer Science Engineering Student
+</h3>
+
+<p style="color:#FF6A00; font-size:18px;">
+
+🌐 Learning HTML • CSS • Java • Python
+
+<br><br>
+
+🚀 Building Projects
+
+<br><br>
+
+🔥 Always Improving
+
+</p>
 
 </div>
 
@@ -125,13 +142,13 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 
 # 🚀 Featured Projects
 
-### 🌐 Portfolio Website
+### 🌐 Portfolio Website  
 Responsive personal website.
 
-### 📝 To-Do App
+### 📝 To-Do App  
 Task management application.
 
-### 🧮 Calculator
+### 🧮 Calculator  
 Interactive calculator.
 
 ---
