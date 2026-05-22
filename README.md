@@ -30,12 +30,11 @@ src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff55
 <div align="center">
 
 <table width="100%">
-
 <tr>
 
 <td align="center" width="33%">
 
-## 💻 VS CODE STATUS  
+## 💻 VS CODE STATUS
 🟢 Active Coding Mode  
 🔥 Building Projects  
 ⚡ Debugging Skills  
@@ -45,7 +44,7 @@ src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff55
 
 <td align="center" width="33%">
 
-## 🎯 MISSION STATUS  
+## 🎯 MISSION STATUS
 🚀 Full Stack Goal  
 🔥 Daily Practice  
 ⚡ Project Building  
@@ -55,7 +54,7 @@ src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff55
 
 <td align="center" width="33%">
 
-## 📡 LIVE SYSTEM  
+## 📡 LIVE SYSTEM
 🟢 Online  
 ⚙️ Processing Skills  
 📈 Improving Daily  
@@ -64,7 +63,6 @@ src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff55
 </td>
 
 </tr>
-
 </table>
 
 </div>
@@ -78,7 +76,7 @@ width="100%"
 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1500&pause=600&color=00FF41&center=true&vCenter=true&width=1000&lines=Initializing...;Developer+Mode+Activated;Loading+Skills...;Building+Future...;Welcome+to+MRPROFEX"
 />
 
-<br><br>
+<br>
 
 <img
 width="100%"
@@ -115,29 +113,24 @@ src="https://skillicons.dev/icons?i=vscode,python,java,html,css"
 
 <div align="center">
 
-<table width="100%">
-<tr>
-
-<td width="50%" align="center">
-
 <img
-width="100%"
+width="49%"
 src="https://github-readme-stats.vercel.app/api?username=mrprofex&show_icons=true&theme=tokyonight&hide_border=true"
 />
 
-</td>
-
-<td width="50%" align="center">
-
 <img
-width="100%"
+width="49%"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprofex&layout=compact&theme=tokyonight&hide_border=true"
 />
 
-</td>
+<br><br>
 
-</tr>
-</table>
+<!-- CYBER TROPHY -->
+
+<img
+width="100%"
+src="https://github-profile-trophy.vercel.app/?username=mrprofex&theme=onestar&no-frame=true&row=1&column=7"
+/>
 
 </div>
 
@@ -181,13 +174,13 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 # 🚀 FEATURED PROJECTS
 
 ### 🌐 Portfolio Website  
-Responsive personal website  
+Responsive personal website
 
 ### 📝 To-Do App  
-Task management application  
+Task management application
 
 ### 🧮 Calculator  
-Interactive calculator  
+Interactive calculator
 
 ---
 
@@ -203,7 +196,7 @@ Interactive calculator
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/mrprofex">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -231,11 +224,6 @@ Interactive calculator
 ### ⭐ Explore • Learn • Create • Repeat ⭐
 
 <br><br>
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mrprofex&theme=matrix&no-frame=true&row=1&column=7" />
-
-</div>
 
 <img
 width="100%"
