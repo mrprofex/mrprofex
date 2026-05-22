@@ -23,24 +23,6 @@ src="https://capsule-render.vercel.app/api?type=waving&height=300&text=MRPROFEX&
 
 ---
 
-<div align="center">
-
-<img
-width="100%"
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1500&pause=600&color=00FF41&center=true&vCenter=true&width=1000&lines=Initializing...;Accessing+Developer+Mode...;Compiling+Ideas...;Building+The+Future...;Welcome+to+MRPROFEX"
-/>
-
-<br><br>
-
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=rect&height=180&text=SYSTEM%20ONLINE&fontColor=00ff88&fontSize=45&animation=blinking&color=0:000000,100:001100"
-/>
-
-</div>
-
----
-
 # 🔥 About Me
 
 <div align="center">
@@ -48,6 +30,26 @@ src="https://capsule-render.vercel.app/api?type=rect&height=180&text=SYSTEM%20ON
 <img
 width="100%"
 src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&multiline=true&width=1000&height=220&lines=Vivek+Kumar+Patar;mrprofex;Computer+Science+Engineering+Student;Learning+HTML+CSS+Java+Python;Building+Projects;Always+Improving"
+/>
+
+</div>
+
+---
+
+# 💻 Cyber Animation
+
+<div align="center">
+
+<img
+width="100%"
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1500&pause=600&color=00FF41&center=true&vCenter=true&width=1000&lines=Initializing...;Developer+Mode+Activated;Loading+Skills...;Building+Future...;Welcome+to+MRPROFEX"
+/>
+
+<br><br>
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=rect&height=160&text=SYSTEM%20ONLINE&fontColor=00ff88&fontSize=42&animation=blinking&color=0:000000,100:001100"
 />
 
 </div>
@@ -102,7 +104,10 @@ src="https://skillicons.dev/icons?i=vscode,python,java,html,css"
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img
+width="100%"
+src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+/>
 
 </div>
 
@@ -120,13 +125,13 @@ src="https://skillicons.dev/icons?i=vscode,python,java,html,css"
 
 # 🚀 Featured Projects
 
-### 🌐 Portfolio Website  
+### 🌐 Portfolio Website
 Responsive personal website.
 
-### 📝 To-Do App  
+### 📝 To-Do App
 Task management application.
 
-### 🧮 Calculator  
+### 🧮 Calculator
 Interactive calculator.
 
 ---
