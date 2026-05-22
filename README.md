@@ -5,14 +5,13 @@
 </p>
 
 ---
-
+<align="ceter">
 ## 🚀 About Me
 
 💻 Computer Science Engineering Student  
 🎓 Beharagora Polytechnic Baharagora  
 🌱 Learning Web Development  
 🔥 Building Projects & Improving Skills  
-
 ---
 
 ## 🛠 Tech Stack
