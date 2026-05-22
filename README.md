@@ -30,30 +30,41 @@ src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff55
 <div align="center">
 
 <table width="100%">
+
 <tr>
 
 <td align="center" width="33%">
-💻 **VS CODE STATUS**  
+
+## 💻 VS CODE STATUS  
 🟢 Active Coding Mode  
 🔥 Building Projects  
 ⚡ Debugging Skills  
+🚀 Learning Every Day  
+
 </td>
 
 <td align="center" width="33%">
-🎯 **MISSION STATUS**  
+
+## 🎯 MISSION STATUS  
 🚀 Full Stack Goal  
 🔥 Daily Practice  
 ⚡ Project Building  
+💡 Growth Mode  
+
 </td>
 
 <td align="center" width="33%">
-📡 **LIVE SYSTEM**  
+
+## 📡 LIVE SYSTEM  
 🟢 Online  
+⚙️ Processing Skills  
 📈 Improving Daily  
 💾 Saving Knowledge  
+
 </td>
 
 </tr>
+
 </table>
 
 </div>
@@ -100,20 +111,33 @@ src="https://skillicons.dev/icons?i=vscode,python,java,html,css"
 
 ---
 
-# ⚡ DEVELOPER ACTIVITY (FIXED)
+# ⚡ DEVELOPER ACTIVITY
 
-<!-- 🔥 THIS IS THE IMPORTANT FIX -->
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=mrprofex&show_icons=true&theme=tokyonight&hide_border=true"
-height="180"
-/>
+<table width="100%">
+<tr>
+
+<td width="50%" align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprofex&layout=compact&theme=tokyonight&hide_border=true"
-height="180"
+width="100%"
+src="https://github-readme-stats.vercel.app/api?username=mrprofex&show_icons=true&theme=tokyonight&hide_border=true"
 />
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+width="100%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprofex&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
