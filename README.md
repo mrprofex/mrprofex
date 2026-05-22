@@ -4,7 +4,7 @@
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=420&text=MRPROFEX&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=40&color=0:ff3c00,50:ff6a00,100:ff0000"
+src="https://capsule-render.vercel.app/api?type=waving&height=300&text=MRPROFEX&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&color=0:ff3c00,50:ff6a00,100:ff0000"
 />
 
 </p>
@@ -143,7 +143,7 @@ Interactive calculator.
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:ff3c00,100:ff8800"
+src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff3c00,100:ff8800"
 />
 
 </div>
