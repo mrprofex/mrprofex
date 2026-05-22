@@ -1,8 +1,8 @@
-<!-- TOP WAVE -->
+<!-- FIRE HEADER -->
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00C2FF,100:0047AB&text=Welcome%20To%20My%20GitHub&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=MRPROFEX&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&color=0:FF512F,50:DD2476,100:FF0000"/>
 
 </p>
 
@@ -10,9 +10,9 @@
 
 # 👋 Hi, I'm Vivek Kumar Patar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Frontend+Developer;Learning+AI+%26+Web+Development;Building+Projects+Every+Day;Welcome+to+My+GitHub+World"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2200&pause=800&color=FF6B00&center=true&vCenter=true&width=900&lines=🔥+Code+Create+Repeat;Computer+Science+Engineering+Student;Frontend+Developer;Learning+AI+%26+Web+Development;Building+Projects+Every+Day;Welcome+To+My+GitHub"/>
 
-### 💻 Build • Learn • Create • Grow
+### 🔥 Build • Learn • Create • Grow
 
 </div>
 
@@ -93,14 +93,19 @@ Passion: Coding + Designing + Building
 # 🚀 Featured Projects
 
 ### 🌐 Portfolio Website  
+Modern responsive personal website.
+
 ### 📝 To-Do App  
+Task management application.
+
 ### 🧮 Calculator  
+Interactive calculator project.
 
 ---
 
 <div align="center">
 
-## ✨ Thanks for Visiting
+## ✨ Thanks For Visiting
 
 ⭐ Explore • Learn • Build • Repeat ⭐
 
