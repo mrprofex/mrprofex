@@ -1,8 +1,8 @@
-<!-- FIRE HEADER -->
+<!-- PREMIUM FIRE HEADER -->
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=MRPROFEX&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&color=0:FF512F,50:DD2476,100:FF0000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=340&text=MRPROFEX&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&color=0:ff3c00,50:ff6a00,100:ff0000"/>
 
 </p>
 
@@ -10,33 +10,35 @@
 
 # 👋 Hi, I'm Vivek Kumar Patar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2200&pause=800&color=FF6B00&center=true&vCenter=true&width=900&lines=🔥+Code+Create+Repeat;Computer+Science+Engineering+Student;Frontend+Developer;Learning+AI+%26+Web+Development;Building+Projects+Every+Day;Welcome+To+My+GitHub"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2200&pause=700&color=FF6B00&center=true&vCenter=true&width=950&lines=🔥+Code+Create+Repeat;💻+Computer+Science+Engineering+Student;🚀+Frontend+Developer;🌐+Learning+AI+%26+Web+Development;⚡+Building+Projects+Every+Day"/>
 
-### 🔥 Build • Learn • Create • Grow
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mrprofex&label=Profile%20Views&color=ff6600&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🔥 About Me
 
 ```yaml
 Name: Vivek Kumar Patar
-Role: Computer Science Student
-College: Beharagora Polytechnic Baharagora
-Learning: HTML • CSS • JavaScript • Python
-Goal: Become Full Stack Developer
-Passion: Coding + Designing + Building
+Username: mrprofex
+Role: Computer Science Engineering Student
+Focus: Frontend + Programming
+Current Goal: Become Full Stack Developer
+Passion: Build • Learn • Improve
 ```
 
 ---
 
-# 🧠 Current Focus
+# 🌍 Current Journey
 
-✔ Learning Frontend Development  
-✔ Building Responsive Websites  
-✔ Improving Git & GitHub  
-✔ Exploring AI & Modern Tech  
+🧠 Learning modern web development  
+⚡ Building responsive projects  
+🎯 Improving problem solving  
+🚀 Exploring AI and future technologies  
 
 ---
 
@@ -44,19 +46,19 @@ Passion: Coding + Designing + Building
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github,vscode,figma"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+# ⚡ Developer Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mrprofex&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrprofex&show_icons=true&theme=tokyonight"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprofex&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprofex&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -66,13 +68,23 @@ Passion: Coding + Designing + Building
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrprofex&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrprofex&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrprofex&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🐍 Snake Animation
 
 <div align="center">
 
@@ -85,28 +97,41 @@ Passion: Coding + Designing + Building
 # 🏆 Achievements
 
 🏅 Consistent Learner  
-🏅 Web Development Practice  
-🏅 Personal Projects Builder  
+🏅 Frontend Development  
+🏅 Open Source Journey  
+🏅 Building Every Week  
 
 ---
 
 # 🚀 Featured Projects
 
-### 🌐 Portfolio Website  
-Modern responsive personal website.
+### 🌐 Portfolio Website
+Responsive personal portfolio.
 
-### 📝 To-Do App  
-Task management application.
+### 📝 To-Do App
+Modern productivity app.
 
-### 🧮 Calculator  
-Interactive calculator project.
+### 🧮 Calculator
+Interactive UI calculator.
+
+---
+
+# ☕ Fun Facts
+
+💻 I enjoy coding and experimenting  
+🌙 Late night builder  
+🎯 Always improving  
 
 ---
 
 <div align="center">
 
-## ✨ Thanks For Visiting
+## 🔥 Thanks For Visiting
 
-⭐ Explore • Learn • Build • Repeat ⭐
+### ⭐ Explore • Learn • Create • Repeat ⭐
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:ff3c00,100:ff8800"/>
 
 </div>
