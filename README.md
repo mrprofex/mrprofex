@@ -1,24 +1,16 @@
+<!-- TOP WAVE -->
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00C2FF,100:0047AB&text=Welcome%20To%20My%20GitHub&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38"/>
+
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Vivek Kumar Patar
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Frontend+Developer;Learning+AI+%26+Web+Development;Building+Projects+Every+Day;Welcome+to+My+GitHub+World"/>
-
-</div>
-
----
-
-
-
-# 🌊 Developer Wave Banner
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C2FF,100:0047AB&text=Welcome%20To%20My%20GitHub&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=40"/>
-
-</p>
-
-<div align="center">
 
 ### 💻 Build • Learn • Create • Grow
 
@@ -100,43 +92,16 @@ Passion: Coding + Designing + Building
 
 # 🚀 Featured Projects
 
-### 🌐 Portfolio Website
-Modern personal portfolio.
-
-### 📝 To-Do App
-Task management project.
-
-### 🧮 Calculator
-Clean calculator interface.
-
----
-
-# 🎵 Coding Mood
-
-<p align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31&cover_image=true"/>
-
-</p>
-
----
-
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/mrprofex">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
-</a>
-
-</p>
+### 🌐 Portfolio Website  
+### 📝 To-Do App  
+### 🧮 Calculator  
 
 ---
 
 <div align="center">
 
-## ✨ Thanks for Visiting ✨
+## ✨ Thanks for Visiting
 
-### ⭐ Explore • Learn • Build • Repeat ⭐
+⭐ Explore • Learn • Build • Repeat ⭐
 
 </div>
