@@ -81,11 +81,21 @@ Passion:
 
 ---
 
-# 📈 Contribution Graph
+# 💻 Cyber Animation
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrprofex&theme=tokyo-night"/>
+<img
+width="100%"
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1500&pause=600&color=00FF41&center=true&vCenter=true&width=1000&lines=Initializing...;Accessing+Developer+Mode...;Compiling+Ideas...;Building+The+Future...;Welcome+to+MRPROFEX"
+/>
+
+<br><br>
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=rect&height=180&text=SYSTEM%20ONLINE&fontColor=00ff88&fontSize=45&animation=blinking&color=0:000000,100:001100"
+/>
 
 </div>
 
