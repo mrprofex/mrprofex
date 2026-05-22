@@ -13,11 +13,15 @@ src="https://capsule-render.vercel.app/api?type=waving&height=300&text=MRPROFEX&
 
 # 👋 Hi, I'm Vivek Kumar Patar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2200&pause=700&color=FF6B00&center=true&vCenter=true&width=950&lines=🔥+Code+Create+Repeat;💻+Computer+Science+Engineering+Student;🚀+Frontend+Developer;🌐+Learning+AI+%26+Web+Development;⚡+Building+Projects+Every+Day"/>
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2200&pause=700&color=FF6B00&center=true&vCenter=true&width=950&lines=🔥+Code+Create+Repeat;💻+Computer+Science+Engineering+Student;🚀+Frontend+Developer;🌐+Learning+AI+%26+Web+Development;⚡+Building+Projects+Every+Day"
+/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff5500&style=for-the-badge"/>
+<img
+src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff5500&style=for-the-badge"
+/>
 
 </div>
 
@@ -27,27 +31,50 @@ src="https://capsule-render.vercel.app/api?type=waving&height=300&text=MRPROFEX&
 
 <div align="center">
 
-<h1 style="color:#FF6A00;">
-Vivek Kumar Patar
-</h1>
+<table>
 
-<h3 style="color:#FF6A00;">
-💻 Computer Science Engineering Student
-</h3>
+<tr>
 
-<p style="color:#FF6A00; font-size:18px;">
+<td align="center" width="33%">
 
-🌐 Learning HTML • CSS • Java • Python
+### 👤 PROFILE
 
-<br><br>
+🔥 **Vivek Kumar Patar**
 
-🚀 Building Projects
+💻 Computer Science  
+Engineering Student
 
-<br><br>
+</td>
 
-🔥 Always Improving
+<td align="center" width="33%">
 
-</p>
+### 🚀 CURRENT FOCUS
+
+🌐 HTML & CSS  
+☕ Java  
+🐍 Python
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎯 GOAL
+
+⚡ Build Projects  
+🔥 Improve Daily  
+🚀 Become Full Stack Developer
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=2500&pause=1500&color=FF6A00&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Reality+🔥;Learning+Every+Day+⚡;Creating+The+Future+🚀"
+/>
 
 </div>
 
@@ -99,9 +126,15 @@ src="https://skillicons.dev/icons?i=vscode,python,java,html,css"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrprofex&show_icons=true&theme=tokyonight"/>
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=mrprofex&show_icons=true&theme=tokyonight"
+/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprofex&layout=compact&theme=tokyonight"/>
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprofex&layout=compact&theme=tokyonight"
+/>
 
 </div>
 
@@ -111,7 +144,9 @@ src="https://skillicons.dev/icons?i=vscode,python,java,html,css"
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrprofex&theme=tokyonight&hide_border=true"/>
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=mrprofex&theme=tokyonight&hide_border=true"
+/>
 
 </div>
 
@@ -142,14 +177,14 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 
 # 🚀 Featured Projects
 
-### 🌐 Portfolio Website  
-Responsive personal website.
+### 🌐 Portfolio Website
+Responsive personal website
 
-### 📝 To-Do App  
-Task management application.
+### 📝 To-Do App
+Task management application
 
-### 🧮 Calculator  
-Interactive calculator.
+### 🧮 Calculator
+Interactive calculator
 
 ---
 
