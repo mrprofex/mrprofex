@@ -25,8 +25,6 @@ src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff55
 
 ---
 
-<!-- ===================== DASHBOARD SECTION ===================== -->
-
 # 🖥️ DEVELOPER DASHBOARD
 
 <div align="center">
@@ -68,32 +66,6 @@ src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff55
 </tr>
 
 </table>
-
-</div>
-
----
-
-# 🔥 ABOUT ME (CYBER CARD)
-
-<div align="center">
-
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=rect&height=95&text=ABOUT%20ME&fontSize=34&fontColor=ffffff&animation=fadeIn&color=0:ff3c00,100:ff8800"
-/>
-
-<br><br>
-
-<img
-width="300"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-/>
-
-<br><br>
-
-<img
-src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=1500&color=FF6A00&center=true&vCenter=true&width=750&lines=Vivek+Kumar+Patar;mrprofex;Computer+Science+Engineering+Student;Frontend+Developer;Problem+Solver;Future+Full+Stack+Developer"
-/>
 
 </div>
 
