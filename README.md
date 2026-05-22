@@ -25,17 +25,14 @@ src="https://capsule-render.vercel.app/api?type=waving&height=300&text=MRPROFEX&
 
 # 🔥 About Me
 
-```yaml
-Name: Vivek Kumar Patar
-Username: mrprofex
-Role: Computer Science Engineering Student
-Focus: Frontend + Programming
-Current Goal: Become Full Stack Developer
-Passion:
-  - Build
-  - Learn
-  - Improve
-```
+<div align="center">
+
+<img
+width="100%"
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FF6B00&center=true&vCenter=true&width=1000&lines=Name:+Vivek+Kumar+Patar;Username:+mrprofex;Role:+Computer+Science+Student;Learning:+HTML+CSS+JavaScript+Python;Goal:+Become+Full+Stack+Developer;Passion:+Build+Learn+Improve"
+/>
+
+</div>
 
 ---
 
@@ -123,13 +120,13 @@ src="https://capsule-render.vercel.app/api?type=rect&height=180&text=SYSTEM%20ON
 
 # 🚀 Featured Projects
 
-### 🌐 Portfolio Website
+### 🌐 Portfolio Website  
 Responsive personal website.
 
-### 📝 To-Do App
+### 📝 To-Do App  
 Task management application.
 
-### 🧮 Calculator
+### 🧮 Calculator  
 Interactive calculator.
 
 ---
