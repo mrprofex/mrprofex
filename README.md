@@ -1,8 +1,11 @@
-<!-- PREMIUM FIRE HEADER -->
+<!-- PREMIUM FULL WIDTH FIRE HEADER -->
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=340&text=MRPROFEX&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&color=0:ff3c00,50:ff6a00,100:ff0000"/>
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=420&text=MRPROFEX&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=40&color=0:ff3c00,50:ff6a00,100:ff0000"
+/>
 
 </p>
 
@@ -12,9 +15,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2200&pause=700&color=FF6B00&center=true&vCenter=true&width=950&lines=🔥+Code+Create+Repeat;💻+Computer+Science+Engineering+Student;🚀+Frontend+Developer;🌐+Learning+AI+%26+Web+Development;⚡+Building+Projects+Every+Day"/>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=mrprofex&label=Profile%20Views&color=ff6600&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff5500&style=for-the-badge"/>
 
 </div>
 
@@ -28,7 +31,10 @@ Username: mrprofex
 Role: Computer Science Engineering Student
 Focus: Frontend + Programming
 Current Goal: Become Full Stack Developer
-Passion: Build • Learn • Improve
+Passion:
+  - Build
+  - Learn
+  - Improve
 ```
 
 ---
@@ -36,9 +42,10 @@ Passion: Build • Learn • Improve
 # 🌍 Current Journey
 
 🧠 Learning modern web development  
-⚡ Building responsive projects  
+⚡ Building responsive websites  
 🎯 Improving problem solving  
 🚀 Exploring AI and future technologies  
+🔥 Building projects consistently  
 
 ---
 
@@ -78,7 +85,7 @@ Passion: Build • Learn • Improve
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrprofex&theme=tokyo-night"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrprofex&theme=tokyo-night"/>
 
 </div>
 
@@ -88,7 +95,7 @@ Passion: Build • Learn • Improve
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -100,27 +107,29 @@ Passion: Build • Learn • Improve
 🏅 Frontend Development  
 🏅 Open Source Journey  
 🏅 Building Every Week  
+🏅 Exploring New Technologies  
 
 ---
 
 # 🚀 Featured Projects
 
 ### 🌐 Portfolio Website
-Responsive personal portfolio.
+Responsive personal website.
 
 ### 📝 To-Do App
-Modern productivity app.
+Task management application.
 
 ### 🧮 Calculator
-Interactive UI calculator.
+Interactive calculator.
 
 ---
 
 # ☕ Fun Facts
 
 💻 I enjoy coding and experimenting  
-🌙 Late night builder  
-🎯 Always improving  
+🌙 I love building late at night  
+🎯 Always improving one step at a time  
+🔥 Turning ideas into projects  
 
 ---
 
@@ -130,8 +139,11 @@ Interactive UI calculator.
 
 ### ⭐ Explore • Learn • Create • Repeat ⭐
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:ff3c00,100:ff8800"/>
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:ff3c00,100:ff8800"
+/>
 
 </div>
