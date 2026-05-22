@@ -1,64 +1,132 @@
-<h1 align="center">Hi 👋, I'm Vivek Kumar Patar</h1>
+<div align="center">
+
+# 👋 Hi, I'm Vivek Kumar Patar
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Frontend+Developer;Learning+AI+%26+Web+Development;Building+Projects+Every+Day;Welcome+to+My+GitHub+World"/>
+
+</div>
+
+---
+
+# 🎮 Minecraft Developer Banner
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Frontend+Developer;Learning+AI+%26+Web+Development;Welcome+to+my+GitHub+Profile"/>
-</p>
-
----
-## 🚀 About Me
-
-💻 Computer Science Engineering Student  
-🎓 Beharagora Polytechnic Baharagora  
-🌱 Learning Web Development  
-🔥 Building Projects & Improving Skills  
----
-
-## 🛠 Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode"/>
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RwYmI3Y2hyYWV5M2V5Z2QwZXQ0c2JjbG5la3M2eG9oNW4zN3E4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12oufCB0MyZ1Go/giphy.gif" width="900">
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 About Me
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrprofex&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprofex&layout=compact&theme=tokyonight"/>
-
-</p>
+```yaml
+Name: Vivek Kumar Patar
+Role: Computer Science Student
+College: Beharagora Polytechnic Baharagora
+Learning: HTML • CSS • JavaScript • Python
+Goal: Become Full Stack Developer
+Passion: Coding + Designing + Building
+```
 
 ---
 
-## 🔥 GitHub Streak
+# 🧠 Current Focus
 
-<p align="center">
+✔ Learning Frontend Development  
+✔ Building Responsive Websites  
+✔ Improving Git & GitHub  
+✔ Exploring AI & Modern Tech  
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github,vscode"/>
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mrprofex&show_icons=true&theme=tokyonight"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprofex&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrprofex&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 🐍 Contribution Snake Animation
 
-⭐ Portfolio Website  
-⭐ Calculator  
-⭐ To Do App  
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+🏅 Consistent Learner  
+🏅 Web Development Practice  
+🏅 Personal Projects Builder  
 
 ---
 
-## 🌐 Connect
+# 🚀 Featured Projects
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/mrprofex)
+### 🌐 Portfolio Website
+Modern personal portfolio.
+
+### 📝 To-Do App
+Task management project.
+
+### 🧮 Calculator
+Clean calculator interface.
 
 ---
+
+# 🎵 Coding Mood
 
 <p align="center">
-✨ Thanks for visiting my profile ✨
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31&cover_image=true"/>
+
 </p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/mrprofex">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ✨ Thanks for Visiting ✨
+
+### ⭐ Explore • Learn • Build • Repeat ⭐
+
+</div>
