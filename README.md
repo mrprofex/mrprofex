@@ -8,11 +8,21 @@
 
 ---
 
-# 🎮 Minecraft Developer Banner
+
+
+# 🌊 Developer Wave Banner
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RwYmI3Y2hyYWV5M2V5Z2QwZXQ0c2JjbG5la3M2eG9oNW4zN3E4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12oufCB0MyZ1Go/giphy.gif" width="900">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C2FF,100:0047AB&text=Welcome%20To%20My%20GitHub&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=40"/>
+
 </p>
+
+<div align="center">
+
+### 💻 Build • Learn • Create • Grow
+
+</div>
 
 ---
 
