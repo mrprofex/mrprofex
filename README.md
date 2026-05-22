@@ -27,17 +27,24 @@ src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff55
 
 ---
 
-# 🔥 About Me
+<!-- PREMIUM ABOUT CARD -->
 
 <div align="center">
 
-<table>
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=rect&height=95&text=🔥%20ABOUT%20ME&fontSize=34&fontColor=ffffff&animation=fadeIn&color=0:ff3c00,100:ff8800"
+/>
+
+<br><br>
+
+<table width="100%">
 
 <tr>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-### 👤 PROFILE
+## 👤 PROFILE
 
 🔥 **Vivek Kumar Patar**
 
@@ -46,9 +53,9 @@ Engineering Student
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-### 🚀 CURRENT FOCUS
+## 🚀 CURRENT FOCUS
 
 🌐 HTML & CSS  
 ☕ Java  
@@ -56,9 +63,9 @@ Engineering Student
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-### 🎯 GOAL
+## 🎯 GOAL
 
 ⚡ Build Projects  
 🔥 Improve Daily  
@@ -177,13 +184,13 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 
 # 🚀 Featured Projects
 
-### 🌐 Portfolio Website
+### 🌐 Portfolio Website  
 Responsive personal website
 
-### 📝 To-Do App
+### 📝 To-Do App  
 Task management application
 
-### 🧮 Calculator
+### 🧮 Calculator  
 Interactive calculator
 
 ---
