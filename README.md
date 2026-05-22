@@ -71,8 +71,6 @@ src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff55
 
 ---
 
-
-
 <div align="center">
 
 <img
@@ -172,6 +170,30 @@ Task management application
 
 ### 🧮 Calculator  
 Interactive calculator  
+
+---
+
+# 📱 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://instagram.com/yourusername">
+<img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/yourusername">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/91XXXXXXXXXX">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
