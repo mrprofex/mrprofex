@@ -3,7 +3,7 @@
 <p align="center">
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=300&text=MRPROFEX&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&color=0:ff3c00,50:ff6a00,100:ff0000"
+src="https://capsule-render.vercel.app/api?type=waving&height=300&text=VIVEK%20KUMAR%20PATAR&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&color=0:ff3c00,50:ff6a00,100:ff0000"
 />
 </p>
 
@@ -100,7 +100,7 @@ src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff55
 
 <img
 width="100%"
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1500&pause=600&color=00FF41&center=true&vCenter=true&width=1000&lines=Initializing...;Developer+Mode+Activated;Loading+Skills...;Building+Future...;Welcome+to+MRPROFEX"
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1500&pause=600&color=00FF41&center=true&vCenter=true&width=1000&lines=Initializing...;Developer+Mode+Activated;Loading+Skills...;Building+Future...;Welcome+to+VIVEK+KUMAR+PATAR"
 />
 
 <br><br>
@@ -129,7 +129,7 @@ src="https://capsule-render.vercel.app/api?type=rect&height=160&text=SYSTEM%20ON
 <div align="center">
 
 <img
-src="https://skillicons.dev/icons?i=vscode,python,java,html,css"
+src="https://skillicons.dev/icons?i=vscode,python,java,html,css,js,react,nodejs,git,github"
 />
 
 </div>
@@ -141,8 +141,13 @@ src="https://skillicons.dev/icons?i=vscode,python,java,html,css"
 <div align="center">
 
 <img
-width="100%"
-src="https://github-profile-trophy.vercel.app/?username=mrprofex&theme=algolia&no-frame=true&row=1&column=7"
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=mrprofex&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+/>
+
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprofex&layout=compact&theme=tokyonight&hide_border=true"
 />
 
 </div>
@@ -154,7 +159,7 @@ src="https://github-profile-trophy.vercel.app/?username=mrprofex&theme=algolia&n
 <div align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=mrprofex&theme=tokyonight&hide_border=true"
+src="https://github-readme-streak-stats.herokuapp.com/?user=mrprofex&theme=tokyonight&hide_border=true&stroke=ff6a00&ring=ff6a00&fire=ff6a00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6a00&sideLabels=ffffff&dates=ffffff"
 />
 
 </div>
