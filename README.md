@@ -257,6 +257,28 @@ src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&du
 
 </div>
 
+# 🎥 DEVELOPER SPOTLIGHT
+
+<div align="center">
+
+<a href="https://github.com/mrprofex">
+<img src="https://img.shields.io/badge/dynamic/json?label=GitHub+Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmrprofex&labelColor=000000&color=ff6a00&style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/CODE_LINES-WRITTEN-ff8800?style=for-the-badge&logo=code&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/CAFFEINE_LEVEL-MAXIMUM-ffaa00?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
+</a>
+
+<br><br>
+
+**✨ FEATURED DEVELOPER SPOTLIGHT • VIVEK KUMAR PATAR ✨**
+
+</div>
+
 ---
 
 # 🎧 DEV TUNES (WHILE YOU BROWSE)
