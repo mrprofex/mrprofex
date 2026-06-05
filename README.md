@@ -152,6 +152,17 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprofex&lay
 
 </div>
 
+<br>
+
+<div align="center">
+  
+<img
+width="80%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=mrprofex&theme=tokyo-night&hide_border=true&area=true&bg_color=000000&color=ff6a00&line=ff6a00&point=ffffff"
+/>
+
+</div>
+
 ---
 
 # 🔥 CONTRIBUTION STREAK
@@ -236,43 +247,53 @@ alt="Developer Coding Video Simulation"
 
 <div align="center">
 
-<!-- Embedded Lofi Music Player for focus (no auto-play) -->
-<iframe
-width="100%"
-height="80"
-scrolling="no"
-frameborder="no"
-allow="autoplay"
-src="https://www.youtube.com/embed/jfKfPfyJRdk?si=oj5PqZ9uioA59H_y&amp;controls=1&amp;autoplay=0"
->
-</iframe>
-*Press play for a focused coding atmosphere*
+<!-- Spotify/YouTube Music Badge - GitHub friendly alternative -->
+<a href="https://open.spotify.com/playlist/37i9dQZF1DX3Ogo9pFvBkY">
+<img src="https://img.shields.io/badge/CODING%20PLAYLIST-Lofi%20Beats-ff6a00?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+<a href="https://music.youtube.com/playlist?list=RDCLAK5uy_kmrX0Vl4z0ui6vNnF9g7Az7gGZb_5Jvq8">
+<img src="https://img.shields.io/badge/FOCUS%20MIX-Chill%20Vibes-ff8800?style=for-the-badge&logo=youtubemusic&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/watch?v=jfKfPfyJRdk">
+<img src="https://img.shields.io/badge/LIVE%20RADIO-Lofi%20Girl-ffaa00?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<br><br>
+🎵 *Click any badge above to open your coding soundtrack* 🎵
 
 </div>
 
 ---
 
-# 📊 INTERACTIVE 3D STATS CARD
+# 📊 INTERACTIVE STATS DASHBOARD
 
 <div align="center">
 
 <img
 width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrprofex&theme=github_dark"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrprofex&theme=gruvbox"
 />
 
-<img
-width="32%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrprofex&theme=github_dark"
-/>
-<img
-width="32%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrprofex&theme=github_dark"
-/>
-<img
-width="32%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrprofex&theme=github_dark"
-/>
+<table>
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrprofex&theme=gruvbox"/>
+</td>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrprofex&theme=gruvbox"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrprofex&theme=gruvbox"/>
+</td>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrprofex&theme=gruvbox&utcOffset=8"/>
+</td>
+</tr>
+</table>
 
 </div>
 
