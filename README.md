@@ -237,59 +237,6 @@ src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-
 
 <br>
 
-**⚡ CURRENTLY BUILDING: THE FUTURE OF WEB ⚡**
-
-</div>>
-
-# 🎥 DEVELOPER SPOTLIGHT
-
-<div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=venom&height=200&text=LIVE%20CODING&fontSize=60&fontColor=ff6a00&animation=twinkling&color=0:000000,100:ff3300"
-/>
-
-<br>
-
-<img
-src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=2000&pause=500&color=FF6A00&center=true&vCenter=true&width=800&lines=%3E+SYSTEM_STATUS%3A+ACTIVE;%3E+MODE%3A+DEVELOPER;%3E+SESSION%3A+DAY_15_OF_100;%3E+OUTPUT%3A+BUILDING..."
-/>
-
-</div>
-
-# 🎥 DEVELOPER SPOTLIGHT
-
-<div align="center">
-
-<a href="https://github.com/mrprofex">
-<img src="https://img.shields.io/badge/dynamic/json?label=GitHub+Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmrprofex&labelColor=000000&color=ff6a00&style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CODE_LINES-WRITTEN-ff8800?style=for-the-badge&logo=code&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CAFFEINE_LEVEL-MAXIMUM-ffaa00?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
-</a>
-
-<br><br>
-
-**✨ FEATURED DEVELOPER SPOTLIGHT • VIVEK KUMAR PATAR ✨**
-
-</div>
-
-# 🎥 DEVELOPER SPOTLIGHT
-
-<div align="center">
-
-<img
-width="100%"
-src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif"
-/>
-
-<br>
-
 <img
 src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=500&color=FF6A00&center=true&vCenter=true&width=900&lines=🎬+LIVE+CODING+SESSION+ACTIVE;⌨️+BUILDING+THE+FUTURE+ONE+COMMIT+AT+A+TIME;🔥+VIVEK+KUMAR+PATAR+•+DEVELOPER+SPOTLIGHT;⚡+PUSHING+BOUNDARIES+•+CREATING+SOLUTIONS"
 />
@@ -308,30 +255,6 @@ src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&du
 <td align="center"><strong>6h 42m</strong></td>
 </tr>
 </table>
-
-</div>
-
-# 🎥 DEVELOPER SPOTLIGHT
-
-<div align="center">
-
-<a href="#">
-<img width="100%" src="https://img.shields.io/badge/▶️_CLICK_TO_PLAY-DEVELOPER_SPOTLIGHT-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img
-width="100%"
-src="https://user-images.githubusercontent.com/74038190/225813708-98b460f5-01f2-4c75-aae4-7da8b9f750a2.gif"
-alt="Coding Animation"
-/>
-
-<br>
-
-<img
-src="https://img.shields.io/badge/🔴_LIVE_NOW-Coding_Session_In_Progress-ff3300?style=for-the-badge&logo=livestream&logoColor=white"
-/>
 
 </div>
 
