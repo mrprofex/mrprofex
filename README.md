@@ -279,6 +279,29 @@ src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&du
 
 </div>
 
+# 🎥 DEVELOPER SPOTLIGHT
+
+<div align="center">
+
+```python
+# Welcome to my dev space
+class VivekKumarPatar:
+    def __init__(self):
+        self.name = "Vivek Kumar Patar"
+        self.role = "Full Stack Developer"
+        self.skills = ["Python", "JavaScript", "React", "Node.js"]
+        self.mission = "Build amazing things"
+    
+    def code(self):
+        while True:
+            self.create()
+            self.learn()
+            self.improve()
+            print("🔥 Code. Create. Repeat. 🔥")
+
+dev = VivekKumarPatar()
+dev.code()
+
 ---
 
 # 🎧 DEV TUNES (WHILE YOU BROWSE)
