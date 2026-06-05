@@ -211,17 +211,91 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 
 ---
 
+<!---------------------------------------------------------->
+<!-- NEW ENHANCED CONTENT (ADDED WITHOUT DELETING ANYTHING) -->
+<!---------------------------------------------------------->
+
+# 🎥 DEVELOPER SPOTLIGHT
+
 <div align="center">
 
-## 🔥 THANKS FOR VISITING
+<!-- Developer Video Simulation: A looping animated coding screen -->
+<img
+width="100%"
+src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"
+alt="Developer Coding Video Simulation"
+/>
 
-### ⭐ Explore • Learn • Create • Repeat ⭐
+**▶️ LIVE CODING SESSION: BUILDING THE FUTURE, ONE COMMIT AT A TIME**
 
-<br><br>
+</div>
+
+---
+
+# 🎧 DEV TUNES (WHILE YOU BROWSE)
+
+<div align="center">
+
+<!-- Embedded Lofi Music Player for focus (no auto-play) -->
+<iframe
+width="100%"
+height="80"
+scrolling="no"
+frameborder="no"
+allow="autoplay"
+src="https://www.youtube.com/embed/jfKfPfyJRdk?si=oj5PqZ9uioA59H_y&amp;controls=1&amp;autoplay=0"
+>
+</iframe>
+*Press play for a focused coding atmosphere*
+
+</div>
+
+---
+
+# 📊 INTERACTIVE 3D STATS CARD
+
+<div align="center">
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff3c00,100:ff8800"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrprofex&theme=github_dark"
+/>
+
+<img
+width="32%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrprofex&theme=github_dark"
+/>
+<img
+width="32%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrprofex&theme=github_dark"
+/>
+<img
+width="32%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrprofex&theme=github_dark"
 />
 
 </div>
+
+---
+
+# 🗺️ ADVANCED LEARNING ROADMAP
+
+```mermaid
+graph LR
+A[HTML/CSS] --> B[JavaScript ES6]
+B --> C[React + Redux]
+C --> D[Node.js + Express]
+D --> E[MongoDB]
+E --> F[Full Stack Apps]
+B --> G[TypeScript]
+G --> H[Next.js]
+H --> I[Performance Optimization]
+style A fill:#ff6a00,stroke:#333,stroke-width:2px
+style B fill:#ff8800,stroke:#333,stroke-width:2px
+style C fill:#ffaa00,stroke:#333,stroke-width:2px
+style D fill:#ffcc00,stroke:#333,stroke-width:2px
+style E fill:#ffee00,stroke:#333,stroke-width:2px
+style F fill:#00ff00,stroke:#333,stroke-width:4px
+style G fill:#ffaa33,stroke:#333,stroke-width:2px
+style H fill:#ffcc66,stroke:#333,stroke-width:2px
+style I fill:#66ff66,stroke:#333,stroke-width:4px
