@@ -138,16 +138,29 @@ src="https://skillicons.dev/icons?i=vscode,python,java,html,css,js,react,nodejs,
 
 # ⚡ DEVELOPER ACTIVITY
 
+# ⚡ DEVELOPER ACTIVITY
+
 <div align="center">
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=mrprofex&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-/>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrprofex&theme=github_dark"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrprofex&theme=github_dark&utcOffset=8"/>
+    </td>
+   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrprofex&theme=github_dark"/>
+    </td>
+   </tr>
+</table>
 
 <img
-width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprofex&layout=compact&theme=tokyonight&hide_border=true"
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=mrprofex&theme=tokyo-night&hide_border=true&area=true&bg_color=000000&color=ff6a00&line=ff6a00&point=ffffff"
 />
 
 </div>
