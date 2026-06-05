@@ -136,29 +136,19 @@ src="https://skillicons.dev/icons?i=vscode,python,java,html,css,js,react,nodejs,
 
 ---
 
-# ⚡ DEVELOPER ACTIVITY
+# 🎥 DEVELOPER SPOTLIGHT
 
 <div align="center">
 
 <img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=mrprofex&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+width="100%"
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=50&pause=50&color=00FF41&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=%24_+Initializing+system...;%24_+Loading+kernel+modules...;%24_+Starting+development+environment...;%24_+User+VIVEK+KUMAR+PATAR+authenticated...;%24_+Access+granted.+Ready+to+code."
 />
-
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprofex&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</div>
 
 <br>
 
-<div align="center">
-  
 <img
-width="80%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=mrprofex&theme=tokyo-night&hide_border=true&area=true&bg_color=000000&color=ff6a00&line=ff6a00&point=ffffff"
+src="https://img.shields.io/badge/STATUS-CODING_IN_PROGRESS-00ff00?style=for-the-badge&logo=visualstudiocode&logoColor=white"
 />
 
 </div>
