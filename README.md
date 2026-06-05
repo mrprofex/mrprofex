@@ -301,7 +301,7 @@ class VivekKumarPatar:
 
 dev = VivekKumarPatar()
 dev.code()
-
+</div>
 ---
 
 # 🎧 DEV TUNES (WHILE YOU BROWSE)
