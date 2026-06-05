@@ -241,6 +241,40 @@ src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-
 
 </div>>
 
+# 🎥 DEVELOPER SPOTLIGHT
+
+<div align="center">
+
+<img
+width="100%"
+src="https://github-readme-stats.vercel.app/api/wakatime?username=mrprofex&theme=tokyonight&hide_border=true&layout=compact&range=last_7_days&custom_title=LIVE+CODING+METRICS"
+/>
+
+<br>
+
+<table border="0">
+<tr>
+<td align="center">
+🔥 <strong>Today's Focus</strong><br>
+React Components
+</td>
+<td align="center">
+⚡ <strong>Active Since</strong><br>
+08:00 AM
+</td>
+<td align="center">
+🎯 <strong>Daily Goal</strong><br>
+4/8 hours
+</td>
+<td align="center">
+💪 <strong>Streak</strong><br>
+15 days
+</td>
+</tr>
+</table>
+
+</div>
+
 ---
 
 # 🎧 DEV TUNES (WHILE YOU BROWSE)
