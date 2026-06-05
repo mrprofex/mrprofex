@@ -310,6 +310,31 @@ src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&du
 </table>
 
 </div>
+
+# 🎥 DEVELOPER SPOTLIGHT
+
+<div align="center">
+
+<a href="#">
+<img width="100%" src="https://img.shields.io/badge/▶️_CLICK_TO_PLAY-DEVELOPER_SPOTLIGHT-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img
+width="100%"
+src="https://user-images.githubusercontent.com/74038190/225813708-98b460f5-01f2-4c75-aae4-7da8b9f750a2.gif"
+alt="Coding Animation"
+/>
+
+<br>
+
+<img
+src="https://img.shields.io/badge/🔴_LIVE_NOW-Coding_Session_In_Progress-ff3300?style=for-the-badge&logo=livestream&logoColor=white"
+/>
+
+</div>
+
 ---
 
 # 🎧 DEV TUNES (WHILE YOU BROWSE)
