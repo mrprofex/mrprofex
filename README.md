@@ -283,24 +283,32 @@ src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&du
 
 <div align="center">
 
-```python
-# Welcome to my dev space
-class VivekKumarPatar:
-    def __init__(self):
-        self.name = "Vivek Kumar Patar"
-        self.role = "Full Stack Developer"
-        self.skills = ["Python", "JavaScript", "React", "Node.js"]
-        self.mission = "Build amazing things"
-    
-    def code(self):
-        while True:
-            self.create()
-            self.learn()
-            self.improve()
-            print("🔥 Code. Create. Repeat. 🔥")
+<img
+width="100%"
+src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif"
+/>
 
-dev = VivekKumarPatar()
-dev.code()
+<br>
+
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=500&color=FF6A00&center=true&vCenter=true&width=900&lines=🎬+LIVE+CODING+SESSION+ACTIVE;⌨️+BUILDING+THE+FUTURE+ONE+COMMIT+AT+A+TIME;🔥+VIVEK+KUMAR+PATAR+•+DEVELOPER+SPOTLIGHT;⚡+PUSHING+BOUNDARIES+•+CREATING+SOLUTIONS"
+/>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center">🎯 TODAY'S FOCUS</td>
+<td align="center">🚀 PROJECT</td>
+<td align="center">⏰ SESSION TIME</td>
+</tr>
+<tr>
+<td align="center"><strong>Full Stack Dev</strong></td>
+<td align="center"><strong>Portfolio 2.0</strong></td>
+<td align="center"><strong>6h 42m</strong></td>
+</tr>
+</table>
+
 </div>
 ---
 
