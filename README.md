@@ -135,9 +135,6 @@ src="https://skillicons.dev/icons?i=vscode,python,java,html,css,js,react,nodejs,
 </div>
 
 ---
-
-# ⚡ DEVELOPER ACTIVITY
-
 # ⚡ DEVELOPER ACTIVITY
 
 <div align="center">
@@ -160,17 +157,6 @@ src="https://skillicons.dev/icons?i=vscode,python,java,html,css,js,react,nodejs,
 
 <img
 width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=mrprofex&theme=tokyo-night&hide_border=true&area=true&bg_color=000000&color=ff6a00&line=ff6a00&point=ffffff"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-  
-<img
-width="80%"
 src="https://github-readme-activity-graph.vercel.app/graph?username=mrprofex&theme=tokyo-night&hide_border=true&area=true&bg_color=000000&color=ff6a00&line=ff6a00&point=ffffff"
 />
 
