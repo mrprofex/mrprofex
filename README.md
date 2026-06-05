@@ -292,25 +292,6 @@ width="100%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrprofex&theme=gruvbox"
 />
 
-<table>
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrprofex&theme=gruvbox"/>
-</td>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrprofex&theme=gruvbox"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrprofex&theme=gruvbox"/>
-</td>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrprofex&theme=gruvbox&utcOffset=8"/>
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
