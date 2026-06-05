@@ -230,16 +230,16 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 
 <div align="center">
 
-<!-- Developer Video Simulation: A looping animated coding screen -->
 <img
 width="100%"
-src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"
-alt="Developer Coding Video Simulation"
+src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif"
 />
 
-**▶️ LIVE CODING SESSION: BUILDING THE FUTURE, ONE COMMIT AT A TIME**
+<br>
 
-</div>
+**⚡ CURRENTLY BUILDING: THE FUTURE OF WEB ⚡**
+
+</div>>
 
 ---
 
