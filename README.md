@@ -168,9 +168,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=mrprofex&the
 
 <div align="center">
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=mrprofex&theme=tokyonight&hide_border=true&stroke=ff6a00&ring=ff6a00&fire=ff6a00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6a00&sideLabels=ffffff&dates=ffffff"
-/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=mrprofex&theme=tokyonight&hide_border=true&stroke=ff6a00&ring=ff6a00&fire=ff6a00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6a00&sideLabels=ffffff&dates=ffffff)
 
 </div>
 
