@@ -3,22 +3,22 @@
 <p align="center">
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=300&text=JOHN%20DOE&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&color=0:FF007F,50:8A2BE2,100:00F0FF"
+src="https://capsule-render.vercel.app/api?type=waving&height=300&text=VIVEK%20KUMAR%20PATAR&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&color=0:ff3c00,50:ff6a00,100:ff0000"
 />
 </p>
 
 <div align="center">
 
-# 👋 Hi, I'm John Doe
+# 👋 Hi, I'm Vivek Kumar Patar
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2200&pause=700&color=FF007F&center=true&vCenter=true&width=950&lines=%F0%9F%94%A5%20SaaS%20Engineer%20%26%20Creative%20builder%3B%F0%9F%92%BB%20Obsessed%20with%20full-stack%20optimization%20and%20reactive%20animations.%3B%F0%9F%9A%80%20Learning%3A%20Dynamic%20WebSockets%20%26%20serverless%20computing"
+src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2200&pause=700&color=FF6B00&center=true&vCenter=true&width=950&lines=🔥+Code+Create+Repeat;💻+Computer+Science+Engineering+Student;🚀+Frontend+Developer;🌐+Learning+AI+%26+Web+Development;⚡+Building+Projects+Every+Day"
 />
 
 <br><br>
 
 <img
-src="https://komarev.com/ghpvc/?username=john_doe&label=PROFILE+VIEWS&color=FF007F&style=for-the-badge"
+src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff5500&style=for-the-badge"
 />
 
 </div>
@@ -76,20 +76,20 @@ src="https://komarev.com/ghpvc/?username=john_doe&label=PROFILE+VIEWS&color=FF00
 
 <div align="center">
 
-<a href="https://instagram.com/john_doe">
-<img src="https://img.shields.io/badge/Instagram-FF007F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/vivek.kr.patar">
+<img src="https://img.shields.io/badge/Instagram-FF5500?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/john_doe">
-<img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/vivek-kumar-patar-064953369">
+<img src="https://img.shields.io/badge/LinkedIn-ff6600?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/john_doe">
+<a href="https://github.com/mrprofex">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/1234567890">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://wa.me/917970586436">
+<img src="https://img.shields.io/badge/WhatsApp-ff3300?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </div>
@@ -100,7 +100,7 @@ src="https://komarev.com/ghpvc/?username=john_doe&label=PROFILE+VIEWS&color=FF00
 
 <img
 width="100%"
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1500&pause=600&color=00FF41&center=true&vCenter=true&width=1000&lines=Initializing...;Developer+Mode+Activated;Loading+Skills...;Building+Future...;Welcome+to+JOHN%20DOE"
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1500&pause=600&color=00FF41&center=true&vCenter=true&width=1000&lines=Initializing...;Developer+Mode+Activated;Loading+Skills...;Building+Future...;Welcome+to+VIVEK+KUMAR+PATAR"
 />
 
 <br><br>
@@ -116,11 +116,11 @@ src="https://capsule-render.vercel.app/api?type=rect&height=160&text=SYSTEM%20ON
 
 # 🌍 CURRENT JOURNEY
 
-🧠 Learning modern web development and APIs  
-⚡ Building responsive client application grids  
-🎯 Improving system scale and layout flows  
-🚀 Exploring next-generation AI and developer solutions  
-🔥 Compiling projects consistently every single day
+🧠 Learning modern web development  
+⚡ Building responsive websites  
+🎯 Improving problem solving  
+🚀 Exploring AI and future technologies  
+🔥 Building projects consistently
 
 ---
 
@@ -129,7 +129,7 @@ src="https://capsule-render.vercel.app/api?type=rect&height=160&text=SYSTEM%20ON
 <div align="center">
 
 <img
-src="https://skillicons.dev/icons?i=react,typescript,nodejs,nextjs,expressjs"
+src="https://skillicons.dev/icons?i=vscode,python,java,html,css,js,react,nodejs,git,github"
 />
 
 </div>
@@ -142,22 +142,22 @@ src="https://skillicons.dev/icons?i=react,typescript,nodejs,nextjs,expressjs"
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=john_doe&theme=tokyonight"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrprofex&theme=github_dark"/>
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=john_doe&theme=tokyonight&utcOffset=8"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrprofex&theme=github_dark&utcOffset=8"/>
     </td>
    </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=john_doe&theme=tokyonight"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrprofex&theme=github_dark"/>
     </td>
    </tr>
 </table>
 
 <img
 width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=john_doe&theme=tokyo-night&hide_border=true&area=true&bg_color=000000&color=FF007F&line=FF007F&point=ffffff"
+src="https://github-readme-activity-graph.vercel.app/graph?username=mrprofex&theme=tokyo-night&hide_border=true&area=true&bg_color=000000&color=ff6a00&line=ff6a00&point=ffffff"
 />
 
 </div>
@@ -168,7 +168,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=john_doe&the
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=john_doe&theme=tokyonight&hide_border=true&stroke=FF007F&ring=FF007F&fire=FF007F&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF007F&sideLabels=ffffff&dates=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mrprofex&theme=tokyonight&hide_border=true&stroke=ff6a00&ring=ff6a00&fire=ff6a00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6a00&sideLabels=ffffff&dates=ffffff)
 
 </div>
 
@@ -177,27 +177,32 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=john_doe&the
 # 🏆 ACHIEVEMENTS
 
 🏅 Consistent Learner  
-🏅 Frontend Development Mastery  
-🏅 Open Source Journey Enthusiast  
-🏅 Building Projects Every Week  
-🏅 Exploring New Tech Coordinates
+🏅 Frontend Development  
+🏅 Open Source Journey  
+🏅 Building Every Week  
+🏅 Exploring New Technologies
 
 ---
 
 # 🚀 FEATURED PROJECTS
 
-### 🌐 [READMEForge](https://github.com/john_doe/readmeforge)
-AI-powered custom GitHub Profile README generation platform.
+### 🌐 Portfolio Website  
+Responsive personal website
 
+### 📝 To-Do App  
+Task management application
+
+### 🧮 Calculator  
+Interactive calculator
 
 ---
 
 # ☕ FUN FACTS
 
-💻 I enjoy coding and experimenting with state loops  
-🌙 I love building late at night with music  
-🎯 Always improving my system architecture skills  
-🔥 Turning creative ideas into custom SaaS software
+💻 I enjoy coding and experimenting  
+🌙 I love building late at night  
+🎯 Always improving one step at a time  
+🔥 Turning ideas into projects
 
 ---
 
@@ -207,12 +212,16 @@ AI-powered custom GitHub Profile README generation platform.
 
 <img
 width="100%"
-src="https://raw.githubusercontent.com/john_doe/john_doe/output/github-contribution-grid-snake-dark.svg"
+src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
 />
 
 </div>
 
 ---
+
+<!---------------------------------------------------------->
+<!-- NEW ENHANCED CONTENT (ADDED WITHOUT DELETING ANYTHING) -->
+<!---------------------------------------------------------->
 
 # 🎥 DEVELOPER SPOTLIGHT
 
@@ -226,7 +235,7 @@ src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-
 <br>
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=500&color=FF007F&center=true&vCenter=true&width=900&lines=🎬+LIVE+CODING+SESSION+ACTIVE;⌨️+BUILDING+THE+FUTURE+ONE+COMMIT+AT+A+TIME;🔥+JOHN%20DOE+•+DEVELOPER+SPOTLIGHT;⚡+PUSHING+BOUNDARIES+•+CREATING+SOLUTIONS"
+src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=500&color=FF6A00&center=true&vCenter=true&width=900&lines=🎬+LIVE+CODING+SESSION+ACTIVE;⌨️+BUILDING+THE+FUTURE+ONE+COMMIT+AT+A+TIME;🔥+VIVEK+KUMAR+PATAR+•+DEVELOPER+SPOTLIGHT;⚡+PUSHING+BOUNDARIES+•+CREATING+SOLUTIONS"
 />
 
 <br>
@@ -278,7 +287,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&du
 
 <img
 width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=john_doe&theme=tokyonight"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrprofex&theme=gruvbox"
 />
 
 </div>
@@ -306,4 +315,3 @@ style F fill:#00ff00,stroke:#333,stroke-width:4px
 style G fill:#ffaa33,stroke:#333,stroke-width:2px
 style H fill:#ffcc66,stroke:#333,stroke-width:2px
 style I fill:#66ff66,stroke:#333,stroke-width:4px
-```
