@@ -39,9 +39,7 @@ src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff55
 🟢 Active Coding Mode  
 🔥 Building Projects  
 ⚡ Debugging Skills  
-🚀 Learning Every Day
-
-</td>
+🚀 Learning Every Day</td>
 
 <td width="33%" align="center">
 
@@ -50,9 +48,7 @@ src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff55
 🚀 Full Stack Goal  
 🔥 Daily Practice  
 ⚡ Project Building  
-💡 Growth Mode
-
-</td>
+💡 Growth Mode</td>
 
 <td width="33%" align="center">
 
@@ -61,9 +57,7 @@ src="https://komarev.com/ghpvc/?username=mrprofex&label=PROFILE+VIEWS&color=ff55
 🟢 Online  
 ⚙️ Processing Skills  
 📈 Improving Daily  
-💾 Saving Knowledge
-
-</td>
+💾 Saving Knowledge</td>
 
 </tr>
 </table>
@@ -138,7 +132,6 @@ src="https://skillicons.dev/icons?i=vscode,python,java,html,css,js,react,nodejs,
 # ⚡ DEVELOPER ACTIVITY
 
 <div align="center">
-
 <table>
   <tr>
     <td align="center">
@@ -147,12 +140,12 @@ src="https://skillicons.dev/icons?i=vscode,python,java,html,css,js,react,nodejs,
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrprofex&theme=github_dark&utcOffset=8"/>
     </td>
-   </tr>
+  </tr>
   <tr>
     <td colspan="2" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrprofex&theme=github_dark"/>
     </td>
-   </tr>
+  </tr>
 </table>
 
 <img
