@@ -1,119 +1,110 @@
-
----
-
-<!-- 🛠️ TECH ARMORY - REDESIGNED -->
-## ⚔️ 𝕿𝖊𝖈𝖍 𝕬𝖗𝖒𝖔𝖗𝖞
-
 <div align="center">
-
-| **Category** | **Weapons** |
-|:---:|:---|
-| **🎨 Frontend** | `HTML5` `CSS3` `JavaScript` `React.js` `Tailwind` |
-| **⚙️ Backend** | `Node.js` `Express.js` `Python` `Java` |
-| **🗄️ Database** | `MongoDB` `Firebase` `MySQL` |
-| **🛠️ Tools** | `VS Code` `Git` `GitHub` `Postman` `Figma` |
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,mongodb,git,github,vscode,figma,tailwind&perline=13"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=60&lines=>>+SYSTEM+INITIALIZED...;>>+WELCOME+TO+VIVEK'S+GRID;SaaS+Engineer+%26+Creative+Builder" alt="Typing SVG" />
 </div>
-
----
-
-<!-- 📊 NEXT-GEN STATS DASHBOARD -->
-## 📈 ℭ𝔬𝔰𝔪𝔦𝔠 𝔄𝔫𝔞𝔩𝔶𝔱𝔦𝔠𝔰
-
-<div align="center">
-
-| **Metric** | **Value** |
-|:---:|:---:|
-| 🌟 **Total Contributions** | `1,234+` |
-| 🔥 **Current Streak** | `15 days` |
-| 📚 **Repositories** | `25+` |
-| 🏆 **Achievements** | `8` |
-| 💻 **Coding Hours/Week** | `40+` |
-
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrprofex&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6a00&icon_color=ff6a00&text_color=ffffff"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrprofex&theme=radical&hide_border=true&background=0d1117&stroke=ff6a00&ring=ff6a00&fire=ff6a00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6a00&sideLabels=ffffff"/>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrprofex&theme=redical&hide_border=true&area=true&bg_color=0d1117&color=ff6a00&line=ff3300&point=ffffff"/>
-</div>
-
----
-
-<!-- 🏅 HALL OF FAME -->
-## 🏆 𝔄𝔠𝔥𝔦𝔢𝔳𝔢𝔪𝔢𝔫𝔱 ℌ𝔞𝔩𝔩
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrprofex&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-<!-- 🐍 COSMIC SNAKE -->
-## 🐉 ℭ𝔬𝔰𝔪𝔦𝔠 𝔖𝔫𝔞𝔨𝔢 (𝔈𝔞𝔱𝔰 𝔜𝔬𝔲𝔯 ℭ𝔬𝔫𝔱𝔯𝔦𝔟𝔲𝔱𝔦𝔬𝔫𝔰)
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-<!-- 🎭 DYNAMIC SPOTLIGHT - CUSTOM SECTION -->
-## ✨ 𝕹𝖊𝖔𝖓 𝕾𝖕𝖔𝖙𝖑𝖎𝖌𝖍𝖙
-
-<div align="center">
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2500&pause=500&color=FF6600&center=true&vCenter=true&width=1000&lines=%E2%9A%A1+LIVE+CODING+SESSION:+ACTIVE+%E2%9A%A1;%F0%9F%94%A5+CURRENTLY+BUILDING:+PORTFOLIO+3.0+%F0%9F%94%A5;%F0%9F%93%8D+DEPLOYING:+NEXT+GEN+WEB+APPS+%F0%9F%93%8D;%F0%9F%92%AA+COLLABORATION:+ALWAYS+OPEN+%F0%9F%92%AA"/>
-
-</div>
-
----
-
-<!-- 🎧 CUSTOM MUSIC ZONE -->
-## 🎵 𝔇𝔢𝔳 𝔙𝔦𝔟𝔢𝔰 𝔖𝔱𝔲𝔡𝔦𝔬
-
-<p align="center">
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DX3Ogo9pFvBkY">
-    <img src="https://img.shields.io/badge/🎧_CODING_BEATS-Lofi_Hip_Hop-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=black"/>
+  <a href="https://vivek.dev" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-00F0FF?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Portfolio" />
   </a>
-  <a href="https://music.youtube.com/playlist?list=RDCLAK5uy_kmrX0Vl4z0ui6vNnF9g7Az7gGZb_5Jvq8">
-    <img src="https://img.shields.io/badge/🎹_FOCUS_FLOW-Chill_Synth-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white&labelColor=black"/>
+  <a href="https://linkedin.com/in/vivekkumarpatar" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-FF007F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/watch?v=5qap5aO4i9A">
-    <img src="https://img.shields.io/badge/📻_LIVE_STUDIO-Lofi_Girl-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black"/>
+  <a href="https://twitter.com/vivekkumarpatar" target="_blank">
+    <img src="https://img.shields.io/badge/TWITTER-9D00FF?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
 ---
 
-<!-- 🎮 INTERACTIVE CORNER - CODE PUZZLE -->
-## 🧩 ℭ𝔬𝔡𝔢 ℭ𝔥𝔞𝔩𝔩𝔢𝔫𝔤𝔢
+### 📡 SYSTEM STATUS: ONLINE
+```microcode
+┌────────────────────────────────────────────────────────────────────────┐
+│  User: vivekkumarpatar // Location: Tokyo, Japan 🇯🇵                     │
+│  Bio: Obsessed with full-stack optimization and reactive animations.   │
+│  Current Mission: Crafting high-performance SaaS environments.         │
+└────────────────────────────────────────────────────────────────────────┘
+```
 
-```javascript
-// 🔥 Can you guess the output? 🔥
-const developer = {
-    name: "Vivek",
-    passion: "coding",
-    energy: "∞",
-    create: function() {
-        return this.passion.toUpperCase() + " " + "MODE: " + this.energy;
-    }
-};
+---
 
-console.log(developer.create());
-// ❓ What will be printed?
-// A) CODING MODE: ∞
-// B) coding MODE: ∞
-// C) Error
-// D) undefined
+### 🛠️ TECH STACK (CYBERNETIC ENHANCEMENTS)
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/React-00F0FF?style=for-the-badge&logo=react&logoColor=black" alt="React" /><br/>
+      <sub>Frontend Matrix</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/TypeScript-FF007F?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /><br/>
+      <sub>Type Safety</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00F0FF" alt="Next.js" /><br/>
+      <sub>SSR Engine</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Node.js-9D00FF?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /><br/>
+      <sub>Core Runtime</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Express-39FF14?style=for-the-badge&logo=express&logoColor=black" alt="Express.js" /><br/>
+      <sub>Server Core</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚡ CURRENT PROTOCOLS (ACTIVE PROJECTS)
+
+<details open>
+<summary><b>📂 Core Repositories</b></summary>
+<br/>
+
+#### 🚀 [READMEForge](https://github.com/vivekkumarpatar/readmeforge)
+> **AI-powered custom GitHub Profile README generation platform.**
+- Built with React, Next.js, and optimized API routing.
+- Generates dynamic, high-converting profiles in seconds.
+- Fully integrated with responsive layouts and theme engines.
+
+```bash
+git clone https://github.com/vivekkumarpatar/readmeforge.git
+```
+</details>
+
+---
+
+### 🗺️ UPGRADE PATH (LEARNING ROADMAP)
+
+```diff
++ [ACTIVE] Exploring Dynamic WebSockets for real-time state synchronization.
++ [ACTIVE] Serverless computing optimizations & edge runtime deployment.
+- [ARCHIVED] Monolithic architecture layouts.
+```
+
+---
+
+### 📊 GRID METRICS (SYSTEM PERFORMANCE)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekkumarpatar&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0D0E15&title_color=00F0FF&icon_color=FF007F&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkumarpatar&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0D0E15&title_color=00F0FF&icon_color=FF007F&text_color=FFFFFF" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkumarpatar&theme=cyberpunk&hide_border=true&background=0D0E15&ring=00F0FF&fire=FF007F&currStreakNum=FFFFFF" alt="GitHub Streak" width="97%" />
+</p>
+
+---
+
+### 🔮 TERMINAL TRIVIA
+- **0x01:** Based in Tokyo, fueled by ramen, neon lights, and clean code.
+- **0x02:** Obsessed with sub-100ms PageSpeed scores and buttery-smooth 60fps animations.
+- **0x03:** I believe the console is mightier than the sword.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasgysin/signature/master/signature.gif" width="100" alt="Cyberpunk Signature" />
+  <br/>
+  <sub>SYSTEM STATUS: SECURE // CODE ON.</sub>
+</div>
