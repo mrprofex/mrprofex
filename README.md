@@ -1,75 +1,60 @@
-<h1 align="center">👋 Hi, I'm Houria Hs</h1>
-<h3 align="center">Full-Stack Developer | System Design Enthusiast</h3>
+# 👋 Houria Hs
+### Full-stack developer
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Building+modern+web+apps;Learning+System+Design+%26+Cloud;DevOps+Enthusiast" alt="Typing SVG" />
-</p>
+Hey there, I'm Houria
 
 ---
 
-### 🚀 About Me
-
-- 🔭 I’m currently working on **Full-Stack Web Applications**
-- 🌱 I’m currently learning **System Design, Cloud & DevOps**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, Python, and Cloud Architecture**
-- 📫 How to reach me: **houria@example.com** *(apna email daalna)*
+## 📁 FOLDERS
+## 📖 STORIES
+## 👀 PROFILE VIEWS
 
 ---
 
-### 🛠️ Tech Stack
+## About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+- Full Stack Developer passionate about building modern web apps
+- Currently learning System Design, Cloud & DevOps
+
+---
+
+### 🚀 My Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Houria-Hs&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Houria-Hs&theme=radical" alt="GitHub Streak" />
-</p>
+![Houria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Houria-Hs&show_icons=true&theme=default)
 
 ---
 
-### 🏆 Featured Projects
+### 🔥 Most Used Languages
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Project 1** | A modern web app for ... | React, Node.js, MongoDB |
-| **Project 2** | Cloud-native microservices | Python, Docker, AWS |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Houria-Hs&layout=compact)
 
 ---
 
-### 📂 Folders & Stories
+### 📌 Featured Projects
 
-- 📁 **Projects** - All my development work
-- 📖 **Learning Journey** - System Design & DevOps notes
-- 👀 **Profile Views** - Growing every day!
+- 🚀 **Project 1** - Description here
+- 💻 **Project 2** - Description here
+- 🌐 **Project 3** - Description here
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/houria-hs)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/houria_hs)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Houria-Hs)
 
 ---
 
-<p align="center">
-  <i>Let's connect and build something amazing together!</i>
-  <br />
-  <a href="https://linkedin.com/in/houria-hs">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/houria_hs">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://dev.to/houria_hs">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
-</p>
-
----
-⭐️ From [Houria Hs](https://github.com/Houria-Hs)
+⭐️ **Thanks for visiting!**
