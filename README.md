@@ -122,7 +122,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=mrprofex&the
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrprofex&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=mrprofex&theme=tokyonight&hide_border=true" width="495" alt="GitHub Contribution Streak" />
 
 </div>
 
