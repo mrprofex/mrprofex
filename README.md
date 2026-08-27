@@ -250,22 +250,26 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 # 🗺️ ADVANCED LEARNING ROADMAP
 
-
 graph LR
-A[HTML/CSS] --> B[JavaScript ES6]
-B --> C[React + Redux]
-C --> D[Node.js + Express]
-D --> E[MongoDB]
-E --> F[Full Stack Apps]
-B --> G[TypeScript]
-G --> H[Next.js]
-H --> I[Performance Optimization]
-style A fill:#ff6a00,stroke:#333,stroke-width:2px
-style B fill:#ff8800,stroke:#333,stroke-width:2px
-style C fill:#ffaa00,stroke:#333,stroke-width:2px
-style D fill:#ffcc00,stroke:#333,stroke-width:2px
-style E fill:#ffee00,stroke:#333,stroke-width:2px
-style F fill:#00ff00,stroke:#333,stroke-width:4px
+    A[HTML / CSS] --> B[JavaScript ES6]
+    B --> C[React + Redux]
+    C --> D[Node.js + Express]
+    D --> E[MongoDB]
+    E --> F[Full Stack Apps]
+
+    B --> G[TypeScript]
+    G --> H[Next.js]
+    H --> I[Performance Optimization]
+
+    style A fill:#ff6a00,stroke:#333,stroke-width:2px
+    style B fill:#ff8800,stroke:#333,stroke-width:2px
+    style C fill:#ffaa00,stroke:#333,stroke-width:2px
+    style D fill:#ffcc00,stroke:#333,stroke-width:2px
+    style E fill:#ffee00,stroke:#333,stroke-width:2px
+    style F fill:#00ff00,stroke:#333,stroke-width:4px
+    style G fill:#ffaa33,stroke:#333,stroke-width:2px
+    style H fill:#ffcc66,stroke:#333,stroke-width:2px
+    style I fill:#66ff66,stroke:#333,stroke-width:4px
 style G fill:#ffaa33,stroke:#333,stroke-width:2px
 style H fill:#ffcc66,stroke:#333,stroke-width:2px
 style I fill:#66ff66,stroke:#333,stroke-width:4px
